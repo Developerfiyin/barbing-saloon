@@ -58,3 +58,12 @@
 .bannner-btn a:hover {
   color: #000;
 }
+#sideNav {
+  width: 120px;
+  top: 0;
+  height: 100vh;
+  right: 0;
+  position: fixed;
+  background: #009688;
+  z-index: 2;
+}
