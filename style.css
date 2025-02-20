@@ -37,6 +37,8 @@
   padding: 12px 0;
   color: #fff;
   border: 0.5px solid #fff;
+  position: relative;
+  z-index: 1;
 }
 
 .bannner-btn a span {
@@ -47,4 +49,8 @@
   top: 0;
   left: 0;
   background: #fff;
+  transition: 0.5s;
+}
+.bannner-btn a:hover span {
+  width: 100%;
 }
