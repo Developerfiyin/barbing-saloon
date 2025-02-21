@@ -62,10 +62,11 @@
   width: 250px;
   top: 0;
   height: 100vh;
-  right: 0;
+  right: -2;
   position: fixed;
   background: #009688;
   z-index: 2;
+  transition: 0.5s;
 }
 nav ul li {
   list-style: none;
