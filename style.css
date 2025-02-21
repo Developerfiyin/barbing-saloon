@@ -84,4 +84,10 @@ nav ul li a {
   right: 30px;
   top: 20px;
   border-radius: 3px;
+  z-index: 3;
+  cursor: pointer;
+}
+#menuBtn img {
+  width: 20px;
+  margin-top: 15px;
 }
