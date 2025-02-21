@@ -92,3 +92,12 @@ nav ul li a {
   width: 20px;
   margin-top: 15px;
 }
+@media screen and (max-width) {
+  .bannner-text h1 {
+    font-size: 130px;
+  }
+  .bannner-btn a {
+    display: block;
+    margin: 20px auto;
+  }
+}
