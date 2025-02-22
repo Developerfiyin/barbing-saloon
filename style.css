@@ -131,8 +131,16 @@ nav ul li a {
   z-index: -1;
   transform: rotate(10deg);
   border-top-right-radius: 35px;
-  border-top-right-radius: 35px;
+  border-bottom-right-radius: 35px;
 }
 .title-text h1 {
   font-size: 50px;
+}
+.feature-box {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
 }
