@@ -187,3 +187,9 @@ nav ul li a {
     font-size: 35px;
   }
 }
+/*-----SERVICE STYLING----*/
+#service {
+  width: 100%;
+  padding: 70px 0;
+  background: #efefef;
+}
