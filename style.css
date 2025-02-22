@@ -103,10 +103,12 @@ nav ul li a {
 }
 
 /*------feayure styling ----*/
+
 #feature {
   width: 100%;
   padding: 70px 0;
 }
+
 .title-text {
   text-align: center;
   padding-bottom: 70px;
