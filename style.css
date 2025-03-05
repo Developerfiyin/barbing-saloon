@@ -233,3 +233,10 @@ nav ul li a {
   transform: translateX(-50%);
   bottom: 40%;
 }
+hr {
+  background: #fff;
+  height: 2px;
+  width: 60px;
+  border: 0;
+  margin: 15px auto;
+}
