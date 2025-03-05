@@ -228,10 +228,12 @@ nav ul li a {
 }
 .service-desc {
   width: 80%;
+  opacity: 0;
+  transition: 1s;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  bottom: 40%;
+  bottom: 0;
 }
 hr {
   background: #fff;
@@ -239,4 +241,11 @@ hr {
   width: 60px;
   border: 0;
   margin: 15px auto;
+}
+.service-desc p {
+  font-size: 14px;
+}
+.single-service:hover .service-desc {
+  bottom: 40%;
+  opacity: 1;
 }
