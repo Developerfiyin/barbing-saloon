@@ -264,3 +264,8 @@ hr {
     bottom: 25% !important;
   }
 }
+/*------testimonial------*/
+#testimonials {
+  width: 100%;
+  padding: 70px 0;
+}
