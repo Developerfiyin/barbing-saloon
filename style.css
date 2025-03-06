@@ -326,3 +326,12 @@ hr {
   justify-content: space-between;
   flex-wrap: wrap;
 }
+.footer-left,
+.footer-right {
+  flex-basis: 45%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.footer-right {
+  text-align: right;
+}
